@@ -1,0 +1,41 @@
+{
+  "data_1": [
+    { "birthday": "17 JAN 2003" },
+    {
+      "website": "<a target='blank' href='http://dane-cosicol-resume.s3-website-us-east-1.amazonaws.com'>http://dane-cosicol-resume.s3-website-us-east-1.amazonaws.com</a>"
+    },
+    { "phone": "+63 950-477-3246" },
+    { "address": "Libertad, Tubigon, Bohol, Philippines" }
+  ],
+  "data_2": [
+    { "age": 21 },
+    { "degree": "B.S. Information Technology" },
+    { "email": "<a href='mailto:someone@example.com'>Danecosicol117@gmail.com</a>" },
+    { "freelance": "Available" }
+  ],
+  "data_3": [
+    "Libertad, Tubigon, Bohol, Philippines",
+    "+63 950-477-3246",
+    "<a href='mailto:someone@example.com'>danecosicol117@gmail.com</a>"
+  ],
+  "data_4": [
+    {
+      "title": "B.S. INFORMATION TECHNOLOGY",
+      "year": "2020 - 2025",
+      "school": "Mater Dei College",
+      "address": "Cabulijan Tubigon Bohol"
+    },
+    {
+      "title": "SECONDARY",
+      "year": "2014 - 2020",
+      "school": "Salus Institute of Technology",
+      "address": "Tinangnan, Tubigon, Bohol"
+    },
+    {
+      "title": "ELEMENTARY",
+      "year": "2008 - 2014",
+      "school": "Libertad Elementary School",
+      "address": "Libertad, Tubigon, Bohol"
+    }
+  ]
+}
